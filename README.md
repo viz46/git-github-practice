@@ -2,4 +2,6 @@
 My practical Git and GitHub learning project
 <br> 
 this is the GitHub Practice Repositories 
-lets see will it appears on vs code or not <br> lets see 
+<br>
+GitHub :- With the help of Zeno 
+I am learning Git commands practically with Zeno.
